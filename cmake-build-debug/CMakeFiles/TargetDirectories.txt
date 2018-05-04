@@ -1,0 +1,3 @@
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/CMakeFiles/sql_parser_1_5.dir

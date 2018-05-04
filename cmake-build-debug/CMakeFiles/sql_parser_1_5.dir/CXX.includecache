@@ -1,0 +1,544 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/AdvanceSelects/groupBy.cpp
+iostream
+-
+vector
+-
+map
+-
+algorithm
+-
+set
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+../headerFiles/select.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/select.h
+../headerFiles/orderBy.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/orderBy.h
+../headerFiles/groupBy.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/groupBy.h
+../headerFiles/catlog.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/AdvanceSelects/joinON.cpp
+iostream
+-
+vector
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+../headerFiles/catlog.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+../headerFiles/BinaryReadWrite.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/BinaryReadWrite.h
+../headerFiles/select.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/select.h
+../output/selectPrinter.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/selectPrinter.h
+../headerFiles/join.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/join.h
+../headerFiles/joinON.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/joinON.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/AdvanceSelects/orderBy.cpp
+iostream
+-
+vector
+-
+map
+-
+algorithm
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+../headerFiles/catlog.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+../headerFiles/BinaryReadWrite.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/BinaryReadWrite.h
+../headerFiles/select.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/select.h
+../headerFiles/orderBy.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/orderBy.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/TblReadWrite/BinaryWrite.cpp
+iostream
+-
+vector
+-
+fstream
+-
+string.h
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+../headerFiles/catlog.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/TblReadWrite/binaryRead.cpp
+iostream
+-
+vector
+-
+fstream
+-
+string.h
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+../headerFiles/catlog.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+../headerFiles/BinaryReadWrite.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/BinaryReadWrite.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/actionFinder.cpp
+iostream
+-
+stdlib.h
+-
+string
+-
+sstream
+-
+vector
+-
+iterator
+-
+algorithm
+-
+functional
+-
+cctype
+-
+locale
+-
+headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+headerFiles/create.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/create.h
+headerFiles/select.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/select.h
+headerFiles/insert.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/insert.h
+headerFiles/show.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/show.h
+headerFiles/join.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/join.h
+headerFiles/orderBy.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/orderBy.h
+headerFiles/groupBy.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/groupBy.h
+headerFiles/joinON.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/joinON.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/catlog/catlog.cpp
+iostream
+-
+fstream
+-
+string.h
+-
+vector
+-
+tableClass.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/catlog/tableClass.h
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+../headerFiles/charTextManage.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/charTextManage.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/catlog/tableClass.cpp
+tableClass.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/catlog/tableClass.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/catlog/tableClass.h
+iostream
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/BinaryReadWrite.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+vector
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+../catlog/tableClass.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/catlog/tableClass.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/charTextManage.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/create.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/groupBy.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/insert.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/join.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/joinON.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/orderBy.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/select.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/show.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/input/input.cpp
+iostream
+-
+vector
+-
+fstream
+-
+cstring
+-
+vector
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+input.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/input/input.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/input/input.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/managing/charTextManage.cpp
+iostream
+-
+vector
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/create.cpp
+iostream
+-
+fstream
+-
+vector
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+../headerFiles/create.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/create.h
+../headerFiles/catlog.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/insert.cpp
+iostream
+-
+vector
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+../headerFiles/catlog.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+../headerFiles/BinaryReadWrite.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/BinaryReadWrite.h
+../headerFiles/insert.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/insert.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/join.cpp
+iostream
+-
+vector
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+../headerFiles/catlog.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+../headerFiles/BinaryReadWrite.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/BinaryReadWrite.h
+../headerFiles/select.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/select.h
+selectPrinter.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/selectPrinter.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/select.cpp
+iostream
+-
+vector
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+../headerFiles/catlog.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+../headerFiles/BinaryReadWrite.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/BinaryReadWrite.h
+../headerFiles/select.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/select.h
+selectPrinter.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/selectPrinter.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/selectPrinter.cpp
+selectPrinter.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/selectPrinter.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/selectPrinter.h
+iostream
+-
+vector
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/show/show.cpp
+iostream
+-
+stdlib.h
+-
+string
+-
+vector
+-
+../headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+../catlog/tableClass.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/catlog/tableClass.h
+../headerFiles/catlog.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+../headerFiles/show.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/show.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/main.cpp
+iostream
+-
+stdlib.h
+-
+string
+-
+vector
+-
+src/SQLParser.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParser.h
+src/sqlhelper.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sqlhelper.h
+Main/headerFiles/actionFinder.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h
+Main/input/input.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/input/input.h
+Main/headerFiles/catlog.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h
+Main/headerFiles/charTextManage.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/charTextManage.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParser.cpp
+SQLParser.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParser.h
+parser/bison_parser.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/bison_parser.h
+parser/flex_lexer.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/flex_lexer.h
+stdio.h
+-
+string
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParser.h
+SQLParserResult.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParserResult.h
+sql/statements.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/statements.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParserResult.cpp
+SQLParserResult.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParserResult.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParserResult.h
+sql/SQLStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/bison_parser.cpp
+bison_parser.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/bison_parser.h
+flex_lexer.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/flex_lexer.h
+stdio.h
+-
+../sql/statements.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/statements.h
+../SQLParserResult.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParserResult.h
+parser_typedef.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/parser_typedef.h
+stddef.h
+-
+libintl.h
+-
+alloca.h
+-
+malloc.h
+-
+stdlib.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/bison_parser.h
+../sql/statements.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/statements.h
+../SQLParserResult.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParserResult.h
+parser_typedef.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/parser_typedef.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/flex_lexer.cpp
+stdio.h
+-
+string.h
+-
+errno.h
+-
+stdlib.h
+-
+inttypes.h
+-
+../sql/Expr.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Expr.h
+bison_parser.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/bison_parser.h
+stdio.h
+-
+unistd.h
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/flex_lexer.h
+stdio.h
+-
+string.h
+-
+errno.h
+-
+stdlib.h
+-
+inttypes.h
+-
+unistd.h
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/parser_typedef.h
+vector
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/CreateStatement.h
+SQLStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/DeleteStatement.h
+SQLStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/DropStatement.h
+SQLStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/ExecuteStatement.h
+SQLStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Expr.cpp
+Expr.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Expr.h
+stdio.h
+-
+string.h
+-
+SelectStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SelectStatement.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Expr.h
+stdlib.h
+-
+memory
+-
+vector
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/ImportStatement.h
+SQLStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/InsertStatement.h
+SQLStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h
+SelectStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SelectStatement.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/PrepareStatement.h
+../SQLParserResult.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParserResult.h
+SQLStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h
+SelectStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SelectStatement.h
+algorithm
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h
+Expr.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Expr.h
+vector
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SelectStatement.h
+SQLStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h
+Expr.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Expr.h
+Table.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Table.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Table.h
+Expr.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Expr.h
+stdio.h
+-
+vector
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/UpdateStatement.h
+SQLStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/statements.cpp
+statements.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/statements.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/statements.h
+SelectStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SelectStatement.h
+ImportStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/ImportStatement.h
+CreateStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/CreateStatement.h
+InsertStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/InsertStatement.h
+UpdateStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/UpdateStatement.h
+DeleteStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/DeleteStatement.h
+DropStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/DropStatement.h
+PrepareStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/PrepareStatement.h
+ExecuteStatement.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/ExecuteStatement.h
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sqlhelper.cpp
+sqlhelper.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sqlhelper.h
+stdio.h
+-
+string
+-
+
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sqlhelper.h
+sql/statements.h
+/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/statements.h
+

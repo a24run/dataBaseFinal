@@ -1,0 +1,24 @@
+tableName:T1
+columns:K INT,  A CHAR(2),  B INT,
+primary key:   (K)
+recordsize:10
+totalSize:60
+records:6
+tableName:T2
+columns:K1 INT, K2 CHAR(2), X CHAR(5), Y INT,
+primary key:  (K1)
+recordsize:15
+totalSize:90
+records:6
+tableName:T3
+columns:C INT,  D INT
+primary key:
+recordsize:0
+totalSize:0
+records:0
+tableName:PERSON
+columns:PERSONID INT,YOB INT,NAME CHAR(9),STATE CHAR(2),
+primary key: (PERSONID)
+recordsize:19
+totalSize:190
+records:10

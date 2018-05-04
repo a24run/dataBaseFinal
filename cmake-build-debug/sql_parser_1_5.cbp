@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sql_parser_1_5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sql_parser_1_5">
+				<Option output="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/sql_parser_1_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 sql_parser_1_5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sql_parser_1_5/fast">
+				<Option output="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/sql_parser_1_5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 sql_parser_1_5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/a24run/New\ Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/AdvanceSelects/groupBy.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/AdvanceSelects/joinON.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/AdvanceSelects/orderBy.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/TblReadWrite/BinaryWrite.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/TblReadWrite/binaryRead.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/actionFinder.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/catlog/catlog.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/catlog/tableClass.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/catlog/tableClass.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/BinaryReadWrite.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/actionFinder.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/catlog.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/charTextManage.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/create.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/groupBy.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/insert.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/join.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/joinON.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/orderBy.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/select.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/headerFiles/show.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/input/input.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/input/input.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/managing/charTextManage.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/create.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/insert.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/join.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/select.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/selectPrinter.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/output/selectPrinter.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Main/show/show.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/Makefile">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/main.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParser.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParser.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParserResult.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/SQLParserResult.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/bison_parser.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/bison_parser.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/flex_lexer.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/flex_lexer.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/parser/parser_typedef.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/CreateStatement.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/DeleteStatement.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/DropStatement.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/ExecuteStatement.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Expr.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Expr.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/ImportStatement.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/InsertStatement.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/PrepareStatement.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SQLStatement.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/SelectStatement.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/Table.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/UpdateStatement.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/statements.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sql/statements.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sqlhelper.cpp">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/src/sqlhelper.h">
+			<Option target="sql_parser_1_5"/>
+		</Unit>
+		<Unit filename="/media/a24run/New Volume/Ubuntudata/DataBase/fuck1/dataBaseFinal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
